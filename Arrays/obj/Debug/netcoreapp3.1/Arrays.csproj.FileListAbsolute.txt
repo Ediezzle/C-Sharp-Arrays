@@ -1,0 +1,22 @@
+C:\Users\Dev Ops\source\repos\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.exe
+C:\Users\Dev Ops\source\repos\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.deps.json
+C:\Users\Dev Ops\source\repos\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.json
+C:\Users\Dev Ops\source\repos\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.dev.json
+C:\Users\Dev Ops\source\repos\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.dll
+C:\Users\Dev Ops\source\repos\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.pdb
+C:\Users\Dev Ops\source\repos\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.csprojAssemblyReference.cache
+C:\Users\Dev Ops\source\repos\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfoInputs.cache
+C:\Users\Dev Ops\source\repos\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfo.cs
+C:\Users\Dev Ops\source\repos\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.dll
+C:\Users\Dev Ops\source\repos\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.pdb
+C:\Users\Dev Ops\Documents\Visual Studio 2019\Projects\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.exe
+C:\Users\Dev Ops\Documents\Visual Studio 2019\Projects\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.deps.json
+C:\Users\Dev Ops\Documents\Visual Studio 2019\Projects\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.json
+C:\Users\Dev Ops\Documents\Visual Studio 2019\Projects\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.dev.json
+C:\Users\Dev Ops\Documents\Visual Studio 2019\Projects\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.dll
+C:\Users\Dev Ops\Documents\Visual Studio 2019\Projects\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.pdb
+C:\Users\Dev Ops\Documents\Visual Studio 2019\Projects\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.csprojAssemblyReference.cache
+C:\Users\Dev Ops\Documents\Visual Studio 2019\Projects\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfoInputs.cache
+C:\Users\Dev Ops\Documents\Visual Studio 2019\Projects\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfo.cs
+C:\Users\Dev Ops\Documents\Visual Studio 2019\Projects\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.dll
+C:\Users\Dev Ops\Documents\Visual Studio 2019\Projects\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.pdb
